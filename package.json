@@ -1,0 +1,24 @@
+{
+  "name": "webassembly-examples",
+  "version": "1.0.0",
+  "description": "Fork of MDN repo",
+  "main": "index.js",
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blayet/webassembly-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blayet/webassembly-examples/issues"
+  },
+  "homepage": "https://github.com/blayet/webassembly-examples#readme"
+}
